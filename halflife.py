@@ -3,7 +3,7 @@ Prints out the date in the future when you will be twice as old as you were
 on 1998-07-31.
 
 Usage:
-    python halflife.py YEAR MONTH DATE
+    python halflife.py BIRTH_YEAR BIRTH_MONTH BIRTH_DATE
 
 """
 

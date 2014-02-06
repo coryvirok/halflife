@@ -27,7 +27,7 @@ if __name__ == '__main__':
     half_life = (x + -birth_ts) / 2
 
     ccd_ts = 1998-07-31
-    ccd = x + ccd_ts
+    ccd = x + -ccd_ts
 
     x = ((2 * -ccd_ts) + birth_ts) / (1 - 2)
     """
